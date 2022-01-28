@@ -1,8 +1,8 @@
 # hello-world
 hello-world tutorial
 
-### H3 Markdown fun
+### H2 More Markdown fun
 
-**bold text**
+**this is some bold text**
 
 *italicized text*
