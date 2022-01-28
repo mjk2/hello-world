@@ -6,5 +6,3 @@ hello-world tutorial
 **bold text**
 
 *italicized text*
-
-more changes
